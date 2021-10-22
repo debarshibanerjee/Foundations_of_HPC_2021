@@ -43,13 +43,6 @@
 #define NSHOTS 100000000
 #define ITER   10
 
-#if !defined(CONDITIONAL)
-#warning "compiling with non-conditional execution"
-#else
-#warning "compiling with conditional execution"
-#endif
-
-
 int main ( int argc, char **argv )
 {
   int    mode = 0;
@@ -73,37 +66,12 @@ int main ( int argc, char **argv )
       double tstart = CPU_TIME;      
       PAPI_START_CNTR;
 
-      switch( mode )
+      for ( int shot = 0; shot < N; shot++ )
 	{
-	case 0:
-	  for ( int shot = 0; shot < N; shot++ )
-	    {
-	      double x  = drand48();                      /* draw 2 pseudo-rnd in [0,1]       */
-	      double y  = drand48();
+	  double x  = drand48();                      /* draw 2 pseudo-rnd in [0,1]       */
+	  double y  = drand48();
 	  
-	      double r  = x*x + y*y;	  
-
-	     #ifdef CONDITIONAL
-	      if( r < 1.0 )
-		shot_in++;
-	     #else
-	      shot_in += ( r < 1.0 );
-	     #endif
-	    }; break;
-	  
-	case 1:
-	  for ( int shot = 0; shot < N; shot++ )
-	    {
-	      double x  = drand48();                      /* draw 2 pseudo-rnd in [0,1]       */
-	      double y  = drand48();
-	  
-	     #ifdef CONDITIONAL
-	      if( (x*x + y*y)  < 1.0 )
-		shot_in++;
-	     #else
-	      shot_in += ( (x*x + y*y) < 1.0 );
-	     #endif
-	    }; break;
+	  shot_in += ( (x*x + y*y) < 1.0 );
 	}
 
       double elapsed = CPU_TIME - tstart;
