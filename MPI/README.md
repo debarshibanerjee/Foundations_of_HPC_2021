@@ -9,6 +9,8 @@ A collection of materials/references for the MPI lectures
  - lecture 5: [Message Passing and MPI programming](lecture05-on-MPI-programming.pdf)
  - lecture 6: [Collective operation and virtual topology](lecture06-Collective-MPI-virtual-topology.pdf)
  - lecture 7: [domain decomposition with MPI](lecture07-Domain-Decomposition-with-MPI.pdf)
+ - lecture 8: [Network basic for MPI applications](lecture08-Network-basics-for-MPI-application.pdf)
+ 
 
 
 ### Main references for MPI lectures: 
@@ -31,5 +33,37 @@ To compile, load the MPI module and then:
 
 To run the code
 
-  ` mpirun --mca btl ^openib -np 24 ./jacoby3D.x  `
+` mpirun --mca btl ^openib -np 24 ./jacoby3D.x  `
+
+#### Installing and running MPI intel benchmark
+
+get the benchmark:
+ 
+ ` git pull https://github.com/intel/mpi-benchmarks`
+
+Enter in the dir: 
+ 
+ `  cd mpi-benchmarks/src_c `
+
+Compile the code, once you load the module: 
+ 
+ ` make `
+
+Run the executable across two nodes: 
+
+ ` mpirun -np 2  --map-by node --report-bindings  ./IMB-MPI1 PingPong `
+
+Run the executable across two socket: 
+ 
+ ` mpirun -np 2 --report-bindings --map-by socket ./IMB-MPI1 PingPong `
+ 
+Run the executable within the same socket:
+
+   ` mpirun -np 2 --report-bindings --map-by socket ./IMB-MPI1 PingPong `
+
+Run the executable using a different protocol: tcp and not infiniband
+
+   ` mpirun -np 2 --mca pml ob1 --mca btl tcp,self --mca btl_tcp_if_include br0 ./IMB-MPI1 PingPong `
+
+  
 
