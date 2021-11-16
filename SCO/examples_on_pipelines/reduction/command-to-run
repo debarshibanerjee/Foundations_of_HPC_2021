@@ -1,0 +1,7 @@
+# use int instead of "Double"...double is default
+gcc reduction.c -DITYPE="int" -o reduction_int.x -lm -O3
+
+# use some other operation, like multiplication
+gcc reduction.c -DOP="*" -DITYPE="int" -o reduction_int.x -lm -O3
+
+This is the way to use compiler directives.
