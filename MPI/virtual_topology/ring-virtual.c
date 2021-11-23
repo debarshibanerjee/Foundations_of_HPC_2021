@@ -5,7 +5,7 @@ int main( argc, argv )
 int argc;
 char **argv;
 {
-    int rank, value, size, false=0;
+    int rank, value, size, true=0;
     int right_p, left_p;
     MPI_Comm   ring_comm;
     MPI_Status status;
