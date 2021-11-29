@@ -47,9 +47,8 @@ int main( int argc, char **argv )
 
     #pragma omp single nowait
     {
-      int me = omp_get_thread_num();
       printf( " »Yuk yuk, here is thread %d from "
-	      "within the single region\n", me );
+	      "within the single region\n", omp_get_thread_num() );
       
       #pragma omp task
       {
@@ -65,7 +64,7 @@ int main( int argc, char **argv )
 
      #pragma omp taskwait
       printf(" «Yuk yuk, it is still me, thread %d "
-	     "inside single region after all tasks ended\n", me);
+	     "inside single region after all tasks ended\n", omp_get_thread_num());
       
     }
 
