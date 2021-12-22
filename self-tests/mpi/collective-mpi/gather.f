@@ -11,7 +11,7 @@
         b(2) = REAL( myid )
         nsnd = 2
         CALL MPI_GATHER(b, nsnd, MPI_REAL, a, nsnd,
-      &  MPI_REAL, root MPI_COMM_WORLD, ierr)
+     &  MPI_REAL, root, MPI_COMM_WORLD, ierr)
         IF( myid .eq. root ) THEN
                 DO i = 1, (nsnd*nproc)
                  WRITE(6,*) myid, ': a(i)=', a(i)
