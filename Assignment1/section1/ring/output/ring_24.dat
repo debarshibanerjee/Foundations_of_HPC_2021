@@ -1,0 +1,144 @@
+I am processor 5 and I have received 48 messages.
+My final messages have tags 50 from the left, and 50 from the right.
+At least one of them should have the tag 50 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6752e-05 seconds.
+
+I am processor 3 and I have received 48 messages.
+My final messages have tags 30 from the left, and 30 from the right.
+At least one of them should have the tag 30 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6999e-05 seconds.
+
+I am processor 23 and I have received 48 messages.
+My final messages have tags 230 from the left, and 230 from the right.
+At least one of them should have the tag 230 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7562e-05 seconds.
+
+I am processor 19 and I have received 48 messages.
+My final messages have tags 190 from the left, and 190 from the right.
+At least one of them should have the tag 190 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.784e-05 seconds.
+
+I am processor 15 and I have received 48 messages.
+My final messages have tags 150 from the left, and 150 from the right.
+At least one of them should have the tag 150 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6989e-05 seconds.
+
+I am processor 7 and I have received 48 messages.
+My final messages have tags 70 from the left, and 70 from the right.
+At least one of them should have the tag 70 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7158e-05 seconds.
+
+I am processor 22 and I have received 48 messages.
+My final messages have tags 220 from the left, and 220 from the right.
+At least one of them should have the tag 220 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7669e-05 seconds.
+
+I am processor 21 and I have received 48 messages.
+My final messages have tags 210 from the left, and 210 from the right.
+At least one of them should have the tag 210 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7387e-05 seconds.
+
+I am processor 18 and I have received 48 messages.
+My final messages have tags 180 from the left, and 180 from the right.
+At least one of them should have the tag 180 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.72e-05 seconds.
+
+I am processor 14 and I have received 48 messages.
+My final messages have tags 140 from the left, and 140 from the right.
+At least one of them should have the tag 140 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7078e-05 seconds.
+
+I am processor 10 and I have received 48 messages.
+My final messages have tags 100 from the left, and 100 from the right.
+At least one of them should have the tag 100 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.756e-05 seconds.
+
+I am processor 2 and I have received 48 messages.
+My final messages have tags 20 from the left, and 20 from the right.
+At least one of them should have the tag 20 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7004e-05 seconds.
+
+I am processor 6 and I have received 48 messages.
+My final messages have tags 60 from the left, and 60 from the right.
+At least one of them should have the tag 60 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6717e-05 seconds.
+
+I am processor 20 and I have received 48 messages.
+My final messages have tags 200 from the left, and 200 from the right.
+At least one of them should have the tag 200 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7981e-05 seconds.
+
+I am processor 16 and I have received 48 messages.
+My final messages have tags 160 from the left, and 160 from the right.
+At least one of them should have the tag 160 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6568e-05 seconds.
+
+I am processor 9 and I have received 48 messages.
+My final messages have tags 90 from the left, and 90 from the right.
+At least one of them should have the tag 90 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.692e-05 seconds.
+
+I am processor 13 and I have received 48 messages.
+My final messages have tags 130 from the left, and 130 from the right.
+At least one of them should have the tag 130 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7077e-05 seconds.
+
+I am processor 12 and I have received 48 messages.
+My final messages have tags 120 from the left, and 120 from the right.
+At least one of them should have the tag 120 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7569e-05 seconds.
+
+I am processor 4 and I have received 48 messages.
+My final messages have tags 40 from the left, and 40 from the right.
+At least one of them should have the tag 40 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6979e-05 seconds.
+
+I am processor 17 and I have received 48 messages.
+My final messages have tags 170 from the left, and 170 from the right.
+At least one of them should have the tag 170 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.6522e-05 seconds.
+
+I am processor 11 and I have received 48 messages.
+My final messages have tags 110 from the left, and 110 from the right.
+At least one of them should have the tag 110 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7856e-05 seconds.
+
+I am processor 1 and I have received 48 messages.
+My final messages have tags 10 from the left, and 10 from the right.
+At least one of them should have the tag 10 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7006e-05 seconds.
+
+I am processor 0 and I have received 48 messages.
+My final messages have tags 0 from the left, and 0 from the right.
+At least one of them should have the tag 0 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7094e-05 seconds.
+
+I am processor 8 and I have received 48 messages.
+My final messages have tags 80 from the left, and 80 from the right.
+At least one of them should have the tag 80 to fulfil the condition of receiving back the original message.
+They have values +276 from the left, and -276 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 2.7083e-05 seconds.
+

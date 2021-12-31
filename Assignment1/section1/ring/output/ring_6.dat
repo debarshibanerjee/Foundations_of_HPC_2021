@@ -1,0 +1,36 @@
+I am processor 5 and I have received 12 messages.
+My final messages have tags 50 from the left, and 50 from the right.
+At least one of them should have the tag 50 to fulfil the condition of receiving back the original message.
+They have values +15 from the left, and -15 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 6.659e-06 seconds.
+
+I am processor 3 and I have received 12 messages.
+My final messages have tags 30 from the left, and 30 from the right.
+At least one of them should have the tag 30 to fulfil the condition of receiving back the original message.
+They have values +15 from the left, and -15 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 6.383e-06 seconds.
+
+I am processor 1 and I have received 12 messages.
+My final messages have tags 10 from the left, and 10 from the right.
+At least one of them should have the tag 10 to fulfil the condition of receiving back the original message.
+They have values +15 from the left, and -15 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 6.563e-06 seconds.
+
+I am processor 4 and I have received 12 messages.
+My final messages have tags 40 from the left, and 40 from the right.
+At least one of them should have the tag 40 to fulfil the condition of receiving back the original message.
+They have values +15 from the left, and -15 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 6.352e-06 seconds.
+
+I am processor 2 and I have received 12 messages.
+My final messages have tags 20 from the left, and 20 from the right.
+At least one of them should have the tag 20 to fulfil the condition of receiving back the original message.
+They have values +15 from the left, and -15 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 6.333e-06 seconds.
+
+I am processor 0 and I have received 12 messages.
+My final messages have tags 0 from the left, and 0 from the right.
+At least one of them should have the tag 0 to fulfil the condition of receiving back the original message.
+They have values +15 from the left, and -15 from the right.
+The total time taken (not including the time taken for writing to file and printing on-screen) is 6.933e-06 seconds.
+

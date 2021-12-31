@@ -1,0 +1,19 @@
+
+Removing old files...
+
+Loading OpenMPI...
+
+Compiling...
+Running map = core, nproc = 1, on THIN nodes
+Running map = core, nproc = 4, on THIN nodes
+Running map = core, nproc = 8, on THIN nodes
+Running map = core, nproc = 12, on THIN nodes
+Running map = socket, nproc = 1, on THIN nodes
+Running map = socket, nproc = 4, on THIN nodes
+Running map = socket, nproc = 8, on THIN nodes
+Running map = socket, nproc = 12, on THIN nodes
+Running map = node, nproc = 12, on THIN nodes
+Running map = node, nproc = 24, on THIN nodes
+Running map = node, nproc = 36, on THIN nodes
+Running map = node, nproc = 48, on THIN nodes
+DONE

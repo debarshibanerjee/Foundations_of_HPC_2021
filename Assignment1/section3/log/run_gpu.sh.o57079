@@ -1,0 +1,19 @@
+
+Removing old files...
+
+Loading OpenMPI...
+
+Compiling...
+Running map = core, nproc = 1, on gpu-ht-node nodes
+Running map = core, nproc = 4, on gpu-ht-node nodes
+Running map = core, nproc = 8, on gpu-ht-node nodes
+Running map = core, nproc = 12, on gpu-ht-node nodes
+Running map = socket, nproc = 1, on gpu-ht-node nodes
+Running map = socket, nproc = 4, on gpu-ht-node nodes
+Running map = socket, nproc = 8, on gpu-ht-node nodes
+Running map = socket, nproc = 12, on gpu-ht-node nodes
+Running map = node, nproc = 12, on gpu-ht-node nodes
+Running map = node, nproc = 24, on gpu-ht-node nodes
+Running map = node, nproc = 36, on gpu-ht-node nodes
+Running map = node, nproc = 48, on gpu-ht-node nodes
+DONE

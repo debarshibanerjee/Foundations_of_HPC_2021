@@ -1,0 +1,511 @@
+Nodes used -
+
+Loading GCC...
+core, ob1, tcp, br0 --- Run - 1
+core, ob1, tcp, br0 --- Run - 2
+core, ob1, tcp, br0 --- Run - 3
+core, ob1, tcp, br0 --- Run - 4
+core, ob1, tcp, br0 --- Run - 5
+core, ob1, tcp, br0 --- Run - 6
+core, ob1, tcp, br0 --- Run - 7
+core, ob1, tcp, br0 --- Run - 8
+core, ob1, tcp, br0 --- Run - 9
+core, ob1, tcp, br0 --- Run - 10
+core, ob1, tcp, ib0 --- Run - 1
+core, ob1, tcp, ib0 --- Run - 2
+core, ob1, tcp, ib0 --- Run - 3
+core, ob1, tcp, ib0 --- Run - 4
+core, ob1, tcp, ib0 --- Run - 5
+core, ob1, tcp, ib0 --- Run - 6
+core, ob1, tcp, ib0 --- Run - 7
+core, ob1, tcp, ib0 --- Run - 8
+core, ob1, tcp, ib0 --- Run - 9
+core, ob1, tcp, ib0 --- Run - 10
+core, ob1, vader, br0 --- Run - 1
+core, ob1, vader, br0 --- Run - 2
+core, ob1, vader, br0 --- Run - 3
+core, ob1, vader, br0 --- Run - 4
+core, ob1, vader, br0 --- Run - 5
+core, ob1, vader, br0 --- Run - 6
+core, ob1, vader, br0 --- Run - 7
+core, ob1, vader, br0 --- Run - 8
+core, ob1, vader, br0 --- Run - 9
+core, ob1, vader, br0 --- Run - 10
+core, ob1, vader, ib0 --- Run - 1
+core, ob1, vader, ib0 --- Run - 2
+core, ob1, vader, ib0 --- Run - 3
+core, ob1, vader, ib0 --- Run - 4
+core, ob1, vader, ib0 --- Run - 5
+core, ob1, vader, ib0 --- Run - 6
+core, ob1, vader, ib0 --- Run - 7
+core, ob1, vader, ib0 --- Run - 8
+core, ob1, vader, ib0 --- Run - 9
+core, ob1, vader, ib0 --- Run - 10
+core, ucx, tcp, br0 --- Run - 1
+core, ucx, tcp, br0 --- Run - 2
+core, ucx, tcp, br0 --- Run - 3
+core, ucx, tcp, br0 --- Run - 4
+core, ucx, tcp, br0 --- Run - 5
+core, ucx, tcp, br0 --- Run - 6
+core, ucx, tcp, br0 --- Run - 7
+core, ucx, tcp, br0 --- Run - 8
+core, ucx, tcp, br0 --- Run - 9
+core, ucx, tcp, br0 --- Run - 10
+core, ucx, tcp, ib0 --- Run - 1
+core, ucx, tcp, ib0 --- Run - 2
+core, ucx, tcp, ib0 --- Run - 3
+core, ucx, tcp, ib0 --- Run - 4
+core, ucx, tcp, ib0 --- Run - 5
+core, ucx, tcp, ib0 --- Run - 6
+core, ucx, tcp, ib0 --- Run - 7
+core, ucx, tcp, ib0 --- Run - 8
+core, ucx, tcp, ib0 --- Run - 9
+core, ucx, tcp, ib0 --- Run - 10
+core, ucx, vader, br0 --- Run - 1
+core, ucx, vader, br0 --- Run - 2
+core, ucx, vader, br0 --- Run - 3
+core, ucx, vader, br0 --- Run - 4
+core, ucx, vader, br0 --- Run - 5
+core, ucx, vader, br0 --- Run - 6
+core, ucx, vader, br0 --- Run - 7
+core, ucx, vader, br0 --- Run - 8
+core, ucx, vader, br0 --- Run - 9
+core, ucx, vader, br0 --- Run - 10
+core, ucx, vader, ib0 --- Run - 1
+core, ucx, vader, ib0 --- Run - 2
+core, ucx, vader, ib0 --- Run - 3
+core, ucx, vader, ib0 --- Run - 4
+core, ucx, vader, ib0 --- Run - 5
+core, ucx, vader, ib0 --- Run - 6
+core, ucx, vader, ib0 --- Run - 7
+core, ucx, vader, ib0 --- Run - 8
+core, ucx, vader, ib0 --- Run - 9
+core, ucx, vader, ib0 --- Run - 10
+socket, ob1, tcp, br0 --- Run - 1
+socket, ob1, tcp, br0 --- Run - 2
+socket, ob1, tcp, br0 --- Run - 3
+socket, ob1, tcp, br0 --- Run - 4
+socket, ob1, tcp, br0 --- Run - 5
+socket, ob1, tcp, br0 --- Run - 6
+socket, ob1, tcp, br0 --- Run - 7
+socket, ob1, tcp, br0 --- Run - 8
+socket, ob1, tcp, br0 --- Run - 9
+socket, ob1, tcp, br0 --- Run - 10
+socket, ob1, tcp, ib0 --- Run - 1
+socket, ob1, tcp, ib0 --- Run - 2
+socket, ob1, tcp, ib0 --- Run - 3
+socket, ob1, tcp, ib0 --- Run - 4
+socket, ob1, tcp, ib0 --- Run - 5
+socket, ob1, tcp, ib0 --- Run - 6
+socket, ob1, tcp, ib0 --- Run - 7
+socket, ob1, tcp, ib0 --- Run - 8
+socket, ob1, tcp, ib0 --- Run - 9
+socket, ob1, tcp, ib0 --- Run - 10
+socket, ob1, vader, br0 --- Run - 1
+socket, ob1, vader, br0 --- Run - 2
+socket, ob1, vader, br0 --- Run - 3
+socket, ob1, vader, br0 --- Run - 4
+socket, ob1, vader, br0 --- Run - 5
+socket, ob1, vader, br0 --- Run - 6
+socket, ob1, vader, br0 --- Run - 7
+socket, ob1, vader, br0 --- Run - 8
+socket, ob1, vader, br0 --- Run - 9
+socket, ob1, vader, br0 --- Run - 10
+socket, ob1, vader, ib0 --- Run - 1
+socket, ob1, vader, ib0 --- Run - 2
+socket, ob1, vader, ib0 --- Run - 3
+socket, ob1, vader, ib0 --- Run - 4
+socket, ob1, vader, ib0 --- Run - 5
+socket, ob1, vader, ib0 --- Run - 6
+socket, ob1, vader, ib0 --- Run - 7
+socket, ob1, vader, ib0 --- Run - 8
+socket, ob1, vader, ib0 --- Run - 9
+socket, ob1, vader, ib0 --- Run - 10
+socket, ucx, tcp, br0 --- Run - 1
+socket, ucx, tcp, br0 --- Run - 2
+socket, ucx, tcp, br0 --- Run - 3
+socket, ucx, tcp, br0 --- Run - 4
+socket, ucx, tcp, br0 --- Run - 5
+socket, ucx, tcp, br0 --- Run - 6
+socket, ucx, tcp, br0 --- Run - 7
+socket, ucx, tcp, br0 --- Run - 8
+socket, ucx, tcp, br0 --- Run - 9
+socket, ucx, tcp, br0 --- Run - 10
+socket, ucx, tcp, ib0 --- Run - 1
+socket, ucx, tcp, ib0 --- Run - 2
+socket, ucx, tcp, ib0 --- Run - 3
+socket, ucx, tcp, ib0 --- Run - 4
+socket, ucx, tcp, ib0 --- Run - 5
+socket, ucx, tcp, ib0 --- Run - 6
+socket, ucx, tcp, ib0 --- Run - 7
+socket, ucx, tcp, ib0 --- Run - 8
+socket, ucx, tcp, ib0 --- Run - 9
+socket, ucx, tcp, ib0 --- Run - 10
+socket, ucx, vader, br0 --- Run - 1
+socket, ucx, vader, br0 --- Run - 2
+socket, ucx, vader, br0 --- Run - 3
+socket, ucx, vader, br0 --- Run - 4
+socket, ucx, vader, br0 --- Run - 5
+socket, ucx, vader, br0 --- Run - 6
+socket, ucx, vader, br0 --- Run - 7
+socket, ucx, vader, br0 --- Run - 8
+socket, ucx, vader, br0 --- Run - 9
+socket, ucx, vader, br0 --- Run - 10
+socket, ucx, vader, ib0 --- Run - 1
+socket, ucx, vader, ib0 --- Run - 2
+socket, ucx, vader, ib0 --- Run - 3
+socket, ucx, vader, ib0 --- Run - 4
+socket, ucx, vader, ib0 --- Run - 5
+socket, ucx, vader, ib0 --- Run - 6
+socket, ucx, vader, ib0 --- Run - 7
+socket, ucx, vader, ib0 --- Run - 8
+socket, ucx, vader, ib0 --- Run - 9
+socket, ucx, vader, ib0 --- Run - 10
+node, ob1, tcp, br0 --- Run - 1
+node, ob1, tcp, br0 --- Run - 2
+node, ob1, tcp, br0 --- Run - 3
+node, ob1, tcp, br0 --- Run - 4
+node, ob1, tcp, br0 --- Run - 5
+node, ob1, tcp, br0 --- Run - 6
+node, ob1, tcp, br0 --- Run - 7
+node, ob1, tcp, br0 --- Run - 8
+node, ob1, tcp, br0 --- Run - 9
+node, ob1, tcp, br0 --- Run - 10
+node, ob1, tcp, ib0 --- Run - 1
+node, ob1, tcp, ib0 --- Run - 2
+node, ob1, tcp, ib0 --- Run - 3
+node, ob1, tcp, ib0 --- Run - 4
+node, ob1, tcp, ib0 --- Run - 5
+node, ob1, tcp, ib0 --- Run - 6
+node, ob1, tcp, ib0 --- Run - 7
+node, ob1, tcp, ib0 --- Run - 8
+node, ob1, tcp, ib0 --- Run - 9
+node, ob1, tcp, ib0 --- Run - 10
+For map-by node, shared memory=vader is NOT possible
+node, ucx, tcp, br0 --- Run - 1
+node, ucx, tcp, br0 --- Run - 2
+node, ucx, tcp, br0 --- Run - 3
+node, ucx, tcp, br0 --- Run - 4
+node, ucx, tcp, br0 --- Run - 5
+node, ucx, tcp, br0 --- Run - 6
+node, ucx, tcp, br0 --- Run - 7
+node, ucx, tcp, br0 --- Run - 8
+node, ucx, tcp, br0 --- Run - 9
+node, ucx, tcp, br0 --- Run - 10
+node, ucx, tcp, ib0 --- Run - 1
+node, ucx, tcp, ib0 --- Run - 2
+node, ucx, tcp, ib0 --- Run - 3
+node, ucx, tcp, ib0 --- Run - 4
+node, ucx, tcp, ib0 --- Run - 5
+node, ucx, tcp, ib0 --- Run - 6
+node, ucx, tcp, ib0 --- Run - 7
+node, ucx, tcp, ib0 --- Run - 8
+node, ucx, tcp, ib0 --- Run - 9
+node, ucx, tcp, ib0 --- Run - 10
+For map-by node, shared memory=vader is NOT possible
+
+DONE - GCC
+
+Loading Intel...
+contiguous, shm, tcp --- Run - 1
+contiguous, shm, tcp --- Run - 2
+contiguous, shm, tcp --- Run - 3
+contiguous, shm, tcp --- Run - 4
+contiguous, shm, tcp --- Run - 5
+contiguous, shm, tcp --- Run - 6
+contiguous, shm, tcp --- Run - 7
+contiguous, shm, tcp --- Run - 8
+contiguous, shm, tcp --- Run - 9
+contiguous, shm, tcp --- Run - 10
+socket, shm, tcp --- Run - 1
+socket, shm, tcp --- Run - 2
+socket, shm, tcp --- Run - 3
+socket, shm, tcp --- Run - 4
+socket, shm, tcp --- Run - 5
+socket, shm, tcp --- Run - 6
+socket, shm, tcp --- Run - 7
+socket, shm, tcp --- Run - 8
+socket, shm, tcp --- Run - 9
+socket, shm, tcp --- Run - 10
+contiguous, shm, mlx --- Run - 1
+contiguous, shm, mlx --- Run - 2
+contiguous, shm, mlx --- Run - 3
+contiguous, shm, mlx --- Run - 4
+contiguous, shm, mlx --- Run - 5
+contiguous, shm, mlx --- Run - 6
+contiguous, shm, mlx --- Run - 7
+contiguous, shm, mlx --- Run - 8
+contiguous, shm, mlx --- Run - 9
+contiguous, shm, mlx --- Run - 10
+socket, shm, mlx --- Run - 1
+socket, shm, mlx --- Run - 2
+socket, shm, mlx --- Run - 3
+socket, shm, mlx --- Run - 4
+socket, shm, mlx --- Run - 5
+socket, shm, mlx --- Run - 6
+socket, shm, mlx --- Run - 7
+socket, shm, mlx --- Run - 8
+socket, shm, mlx --- Run - 9
+socket, shm, mlx --- Run - 10
+contiguous, shm, shm --- Run - 1
+contiguous, shm, shm --- Run - 2
+contiguous, shm, shm --- Run - 3
+contiguous, shm, shm --- Run - 4
+contiguous, shm, shm --- Run - 5
+contiguous, shm, shm --- Run - 6
+contiguous, shm, shm --- Run - 7
+contiguous, shm, shm --- Run - 8
+contiguous, shm, shm --- Run - 9
+contiguous, shm, shm --- Run - 10
+socket, shm, shm --- Run - 1
+socket, shm, shm --- Run - 2
+socket, shm, shm --- Run - 3
+socket, shm, shm --- Run - 4
+socket, shm, shm --- Run - 5
+socket, shm, shm --- Run - 6
+socket, shm, shm --- Run - 7
+socket, shm, shm --- Run - 8
+socket, shm, shm --- Run - 9
+socket, shm, shm --- Run - 10
+contiguous, shm, sockets --- Run - 1
+contiguous, shm, sockets --- Run - 2
+contiguous, shm, sockets --- Run - 3
+contiguous, shm, sockets --- Run - 4
+contiguous, shm, sockets --- Run - 5
+contiguous, shm, sockets --- Run - 6
+contiguous, shm, sockets --- Run - 7
+contiguous, shm, sockets --- Run - 8
+contiguous, shm, sockets --- Run - 9
+contiguous, shm, sockets --- Run - 10
+socket, shm, sockets --- Run - 1
+socket, shm, sockets --- Run - 2
+socket, shm, sockets --- Run - 3
+socket, shm, sockets --- Run - 4
+socket, shm, sockets --- Run - 5
+socket, shm, sockets --- Run - 6
+socket, shm, sockets --- Run - 7
+socket, shm, sockets --- Run - 8
+socket, shm, sockets --- Run - 9
+socket, shm, sockets --- Run - 10
+contiguous, ofi, tcp --- Run - 1
+contiguous, ofi, tcp --- Run - 2
+contiguous, ofi, tcp --- Run - 3
+contiguous, ofi, tcp --- Run - 4
+contiguous, ofi, tcp --- Run - 5
+contiguous, ofi, tcp --- Run - 6
+contiguous, ofi, tcp --- Run - 7
+contiguous, ofi, tcp --- Run - 8
+contiguous, ofi, tcp --- Run - 9
+contiguous, ofi, tcp --- Run - 10
+socket, ofi, tcp --- Run - 1
+socket, ofi, tcp --- Run - 2
+socket, ofi, tcp --- Run - 3
+socket, ofi, tcp --- Run - 4
+socket, ofi, tcp --- Run - 5
+socket, ofi, tcp --- Run - 6
+socket, ofi, tcp --- Run - 7
+socket, ofi, tcp --- Run - 8
+socket, ofi, tcp --- Run - 9
+socket, ofi, tcp --- Run - 10
+contiguous, ofi, mlx --- Run - 1
+contiguous, ofi, mlx --- Run - 2
+contiguous, ofi, mlx --- Run - 3
+contiguous, ofi, mlx --- Run - 4
+contiguous, ofi, mlx --- Run - 5
+contiguous, ofi, mlx --- Run - 6
+contiguous, ofi, mlx --- Run - 7
+contiguous, ofi, mlx --- Run - 8
+contiguous, ofi, mlx --- Run - 9
+contiguous, ofi, mlx --- Run - 10
+socket, ofi, mlx --- Run - 1
+socket, ofi, mlx --- Run - 2
+socket, ofi, mlx --- Run - 3
+socket, ofi, mlx --- Run - 4
+socket, ofi, mlx --- Run - 5
+socket, ofi, mlx --- Run - 6
+socket, ofi, mlx --- Run - 7
+socket, ofi, mlx --- Run - 8
+socket, ofi, mlx --- Run - 9
+socket, ofi, mlx --- Run - 10
+contiguous, ofi, shm --- Run - 1
+contiguous, ofi, shm --- Run - 2
+contiguous, ofi, shm --- Run - 3
+contiguous, ofi, shm --- Run - 4
+contiguous, ofi, shm --- Run - 5
+contiguous, ofi, shm --- Run - 6
+contiguous, ofi, shm --- Run - 7
+contiguous, ofi, shm --- Run - 8
+contiguous, ofi, shm --- Run - 9
+contiguous, ofi, shm --- Run - 10
+socket, ofi, shm --- Run - 1
+socket, ofi, shm --- Run - 2
+socket, ofi, shm --- Run - 3
+socket, ofi, shm --- Run - 4
+socket, ofi, shm --- Run - 5
+socket, ofi, shm --- Run - 6
+socket, ofi, shm --- Run - 7
+socket, ofi, shm --- Run - 8
+socket, ofi, shm --- Run - 9
+socket, ofi, shm --- Run - 10
+contiguous, ofi, sockets --- Run - 1
+contiguous, ofi, sockets --- Run - 2
+contiguous, ofi, sockets --- Run - 3
+contiguous, ofi, sockets --- Run - 4
+contiguous, ofi, sockets --- Run - 5
+contiguous, ofi, sockets --- Run - 6
+contiguous, ofi, sockets --- Run - 7
+contiguous, ofi, sockets --- Run - 8
+contiguous, ofi, sockets --- Run - 9
+contiguous, ofi, sockets --- Run - 10
+socket, ofi, sockets --- Run - 1
+socket, ofi, sockets --- Run - 2
+socket, ofi, sockets --- Run - 3
+socket, ofi, sockets --- Run - 4
+socket, ofi, sockets --- Run - 5
+socket, ofi, sockets --- Run - 6
+socket, ofi, sockets --- Run - 7
+socket, ofi, sockets --- Run - 8
+socket, ofi, sockets --- Run - 9
+socket, ofi, sockets --- Run - 10
+contiguous, shm:ofi, tcp --- Run - 1
+contiguous, shm:ofi, tcp --- Run - 2
+contiguous, shm:ofi, tcp --- Run - 3
+contiguous, shm:ofi, tcp --- Run - 4
+contiguous, shm:ofi, tcp --- Run - 5
+contiguous, shm:ofi, tcp --- Run - 6
+contiguous, shm:ofi, tcp --- Run - 7
+contiguous, shm:ofi, tcp --- Run - 8
+contiguous, shm:ofi, tcp --- Run - 9
+contiguous, shm:ofi, tcp --- Run - 10
+socket, shm:ofi, tcp --- Run - 1
+socket, shm:ofi, tcp --- Run - 2
+socket, shm:ofi, tcp --- Run - 3
+socket, shm:ofi, tcp --- Run - 4
+socket, shm:ofi, tcp --- Run - 5
+socket, shm:ofi, tcp --- Run - 6
+socket, shm:ofi, tcp --- Run - 7
+socket, shm:ofi, tcp --- Run - 8
+socket, shm:ofi, tcp --- Run - 9
+socket, shm:ofi, tcp --- Run - 10
+contiguous, shm:ofi, mlx --- Run - 1
+contiguous, shm:ofi, mlx --- Run - 2
+contiguous, shm:ofi, mlx --- Run - 3
+contiguous, shm:ofi, mlx --- Run - 4
+contiguous, shm:ofi, mlx --- Run - 5
+contiguous, shm:ofi, mlx --- Run - 6
+contiguous, shm:ofi, mlx --- Run - 7
+contiguous, shm:ofi, mlx --- Run - 8
+contiguous, shm:ofi, mlx --- Run - 9
+contiguous, shm:ofi, mlx --- Run - 10
+socket, shm:ofi, mlx --- Run - 1
+socket, shm:ofi, mlx --- Run - 2
+socket, shm:ofi, mlx --- Run - 3
+socket, shm:ofi, mlx --- Run - 4
+socket, shm:ofi, mlx --- Run - 5
+socket, shm:ofi, mlx --- Run - 6
+socket, shm:ofi, mlx --- Run - 7
+socket, shm:ofi, mlx --- Run - 8
+socket, shm:ofi, mlx --- Run - 9
+socket, shm:ofi, mlx --- Run - 10
+contiguous, shm:ofi, shm --- Run - 1
+contiguous, shm:ofi, shm --- Run - 2
+contiguous, shm:ofi, shm --- Run - 3
+contiguous, shm:ofi, shm --- Run - 4
+contiguous, shm:ofi, shm --- Run - 5
+contiguous, shm:ofi, shm --- Run - 6
+contiguous, shm:ofi, shm --- Run - 7
+contiguous, shm:ofi, shm --- Run - 8
+contiguous, shm:ofi, shm --- Run - 9
+contiguous, shm:ofi, shm --- Run - 10
+socket, shm:ofi, shm --- Run - 1
+socket, shm:ofi, shm --- Run - 2
+socket, shm:ofi, shm --- Run - 3
+socket, shm:ofi, shm --- Run - 4
+socket, shm:ofi, shm --- Run - 5
+socket, shm:ofi, shm --- Run - 6
+socket, shm:ofi, shm --- Run - 7
+socket, shm:ofi, shm --- Run - 8
+socket, shm:ofi, shm --- Run - 9
+socket, shm:ofi, shm --- Run - 10
+contiguous, shm:ofi, sockets --- Run - 1
+contiguous, shm:ofi, sockets --- Run - 2
+contiguous, shm:ofi, sockets --- Run - 3
+contiguous, shm:ofi, sockets --- Run - 4
+contiguous, shm:ofi, sockets --- Run - 5
+contiguous, shm:ofi, sockets --- Run - 6
+contiguous, shm:ofi, sockets --- Run - 7
+contiguous, shm:ofi, sockets --- Run - 8
+contiguous, shm:ofi, sockets --- Run - 9
+contiguous, shm:ofi, sockets --- Run - 10
+socket, shm:ofi, sockets --- Run - 1
+socket, shm:ofi, sockets --- Run - 2
+socket, shm:ofi, sockets --- Run - 3
+socket, shm:ofi, sockets --- Run - 4
+socket, shm:ofi, sockets --- Run - 5
+socket, shm:ofi, sockets --- Run - 6
+socket, shm:ofi, sockets --- Run - 7
+socket, shm:ofi, sockets --- Run - 8
+socket, shm:ofi, sockets --- Run - 9
+socket, shm:ofi, sockets --- Run - 10
+node, ofi, tcp --- Run - 1
+node, ofi, tcp --- Run - 2
+node, ofi, tcp --- Run - 3
+node, ofi, tcp --- Run - 4
+node, ofi, tcp --- Run - 5
+node, ofi, tcp --- Run - 6
+node, ofi, tcp --- Run - 7
+node, ofi, tcp --- Run - 8
+node, ofi, tcp --- Run - 9
+node, ofi, tcp --- Run - 10
+node, ofi, mlx --- Run - 1
+node, ofi, mlx --- Run - 2
+node, ofi, mlx --- Run - 3
+node, ofi, mlx --- Run - 4
+node, ofi, mlx --- Run - 5
+node, ofi, mlx --- Run - 6
+node, ofi, mlx --- Run - 7
+node, ofi, mlx --- Run - 8
+node, ofi, mlx --- Run - 9
+node, ofi, mlx --- Run - 10
+node, ofi, sockets --- Run - 1
+node, ofi, sockets --- Run - 2
+node, ofi, sockets --- Run - 3
+node, ofi, sockets --- Run - 4
+node, ofi, sockets --- Run - 5
+node, ofi, sockets --- Run - 6
+node, ofi, sockets --- Run - 7
+node, ofi, sockets --- Run - 8
+node, ofi, sockets --- Run - 9
+node, ofi, sockets --- Run - 10
+node, shm:ofi, tcp --- Run - 1
+node, shm:ofi, tcp --- Run - 2
+node, shm:ofi, tcp --- Run - 3
+node, shm:ofi, tcp --- Run - 4
+node, shm:ofi, tcp --- Run - 5
+node, shm:ofi, tcp --- Run - 6
+node, shm:ofi, tcp --- Run - 7
+node, shm:ofi, tcp --- Run - 8
+node, shm:ofi, tcp --- Run - 9
+node, shm:ofi, tcp --- Run - 10
+node, shm:ofi, mlx --- Run - 1
+node, shm:ofi, mlx --- Run - 2
+node, shm:ofi, mlx --- Run - 3
+node, shm:ofi, mlx --- Run - 4
+node, shm:ofi, mlx --- Run - 5
+node, shm:ofi, mlx --- Run - 6
+node, shm:ofi, mlx --- Run - 7
+node, shm:ofi, mlx --- Run - 8
+node, shm:ofi, mlx --- Run - 9
+node, shm:ofi, mlx --- Run - 10
+node, shm:ofi, sockets --- Run - 1
+node, shm:ofi, sockets --- Run - 2
+node, shm:ofi, sockets --- Run - 3
+node, shm:ofi, sockets --- Run - 4
+node, shm:ofi, sockets --- Run - 5
+node, shm:ofi, sockets --- Run - 6
+node, shm:ofi, sockets --- Run - 7
+node, shm:ofi, sockets --- Run - 8
+node, shm:ofi, sockets --- Run - 9
+node, shm:ofi, sockets --- Run - 10
+
+DONE - Intel
